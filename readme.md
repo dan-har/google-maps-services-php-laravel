@@ -1,4 +1,4 @@
-#google-maps-service-php-laravel
+# google-maps-service-php-laravel
 
 PHP client for google maps api services adapter for Laravel framework
 
