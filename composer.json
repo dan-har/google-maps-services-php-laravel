@@ -1,0 +1,23 @@
+{
+    "name": "dan-har/google-maps-services-php-laravel",
+    "description": "PHP client for google maps api services adapter for Laravel framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dan Har",
+            "email": "dan@niddit.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.9",
+        "illuminate/support": "5.1.*|5.2.*|5.3.*|5.4.*",
+        "dan-har/google-maps-services-php": "^0.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Niddit\\Google\\Maps\\Laravel\\": "src"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
